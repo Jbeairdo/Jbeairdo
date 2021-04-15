@@ -1,4 +1,4 @@
-# Hi 👋, I’m @Jbeairdo
+# Hi 👋, I’m Jordan Beaird
 
 ## About Me
 Hack Reactor alumni living in the Los Angeles area. Full-stack web developer looking to learn new tech and make new connections!
